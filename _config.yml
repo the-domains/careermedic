@@ -1,0 +1,13 @@
+layout_spectrum: 0.302155
+color:
+  saturation: 0.03066861
+  lightness: 0.07972275
+  brandStrength: 0.7897155
+  brandColors:
+    - '#FAFAFA'
+    - '#AFD135'
+    - '#7E7E7E'
+    - '#B2B3B6'
+  rhythmicContrast: 0.7709698
+typography_spectrum: 0.7206646
+name: CAREERMEDIC
