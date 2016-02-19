@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Ride-Hailing
-datePublished: '2016-02-19T20:44:06.166Z'
-dateModified: '2016-02-19T20:43:56.492Z'
+datePublished: '2016-02-19T20:47:12.417Z'
+dateModified: '2016-02-19T20:44:09.370Z'
 title: ' Uber Boston announces partnership with disability advocates'
 author: []
+sourcePath: _posts/2016-02-19-uber-boston-announces-partnership-with-disability-advocates.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-19-uber-boston-announces-partnership-with-disability-advocates.md
-published: true
 url: uber-boston-announces-partnership-with-disability-advocates/index.html
 _type: Article
 
