@@ -1,3 +1,7 @@
+name: CAREERMEDIC
+favicon: null
+layout_spectrum: 0.8330523
+typography_spectrum: 0.7206646
 collections:
   - index:
       path: /
@@ -10,16 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.7206646
+title: CAREERMEDIC
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.03066861
-  brandStrength: 0.7897155
-  lightness: 0.07972275
   brandColors:
     - '#FAFAFA'
     - '#AFD135'
     - '#7E7E7E'
     - '#B2B3B6'
+  brandStrength: 0.7897155
+  lightness: 0.07972275
+  saturation: 0.03066861
   rhythmicContrast: 0.7709698
-layout_spectrum: 0.8330523
-name: CAREERMEDIC
+purpose: []
