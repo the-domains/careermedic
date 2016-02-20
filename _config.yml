@@ -1,7 +1,7 @@
 name: CAREERMEDIC
 favicon: null
 layout_spectrum: 0.99904
-typography_spectrum: 0.50384
+typography_spectrum: 0.1334
 collections:
   - index:
       path: /
