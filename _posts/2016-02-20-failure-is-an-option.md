@@ -7,12 +7,11 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-20T18:00:13.432Z'
-dateModified: '2016-02-20T17:59:00.579Z'
+datePublished: '2016-08-31T22:04:06.913Z'
+dateModified: '2016-02-20T18:00:16.825Z'
 title: Failure IS an Option.
 author: []
 sourcePath: _posts/2016-02-20-failure-is-an-option.md
-published: true
 authors: []
 publisher:
   name: null
