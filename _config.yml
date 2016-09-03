@@ -22,12 +22,13 @@ analytics:
 author:
   name: Denise Anne Taylor
   email: careermedic911@gmail.com
-name: CAREERMEDIC
+name: DIAGNOSE | HEAL | REVIVE
 cta:
   domain: null
   bucket: null
   version: null
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/06f6ee3f-2ed2-4632-845e-0df52b29457a.png
 collections:
   - index:
       path: /
